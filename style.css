@@ -1,0 +1,38 @@
+.nav-bar{
+  height: 100px;
+  vertical-align: middle;
+  line-height: 100px;
+}
+
+.nav-bar h2{
+  color: blue;
+}
+
+.row{
+  width: 1000px;
+  margin: auto;
+}
+
+.h-400{
+  height: 400px;
+}
+
+.h-200{
+  height: 200px;
+}
+
+.h-600{
+  height: 600px;
+}
+
+.blue{
+  background-color: blue;
+}
+
+.grey{
+  background-color: lightgrey;
+}
+
+footer{
+  background-color: darkblue;
+}
