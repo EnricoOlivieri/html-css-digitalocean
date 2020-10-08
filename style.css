@@ -46,6 +46,10 @@
   margin-top: 50px;
 }
 
+.twenty{
+  font-size: 25px;
+}
+
 .deploy .deploy-text{
   color: white;
   font-size: 20px;
@@ -92,7 +96,7 @@
   padding-left: 50px;
 }
 
-.list-unstyled > li{
+.seamlessly-list > li{
   border-left: 1px solid grey;
   height: 30px;
   vertical-align: middle;
@@ -140,6 +144,32 @@
 	width: 10px;
 	border-radius: 5px;
 	background-color: brown;
+}
+
+.white{
+  color: white;
+}
+
+.list-service > p{
+  margin-bottom: 15px;
+  border-bottom: 1px solid white;
+}
+
+.services .col-md-6{
+  margin-top: 20px;
+}
+
+.rocker-box{
+  height: 400px;
+  width: 600px;
+  background-color: white;
+  margin: auto;
+  margin-top: 30px;
+  padding-top: 40px;
+}
+
+.rocker-box > *{
+  padding-bottom: 20px;
 }
 
 footer{
